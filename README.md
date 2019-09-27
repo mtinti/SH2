@@ -7,11 +7,6 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4110347/
 ### DOI: 10.1016/j.celrep.2013.03.001
 https://www.sciencedirect.com/science/article/pii/S2211124713001083
 
-The Jupyter notebooks
-- example
-
-contains a few notes
-
-1. The folder "data_file_post" contains the raw data files processed by the PerkinElmer ScanArray machine software
-
-2. The folder "old" contains a data dump from the Pepspot database PepspotDB
+- The Jupyter notebook "example.ipynb" contains a few notes for data processing
+- The folder "data_file_post" contains the raw data files processed by the PerkinElmer ScanArray machine software
+- The folder "old" contains a data dump from the Pepspot database PepspotDB
