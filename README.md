@@ -1,6 +1,6 @@
 # The SH2 domain interaction landscape
 
-[![DOI](https://zenodo.org/badge/202750729.svg)](https://zenodo.org/badge/latestdoi/202750729)
+[![DOI](https://zenodo.org/badge/202750729.svg)](https://zenodo.org/badge/latestdoi/202750729) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mtinti/SH2/master?filepath=example.ipynb)
 
 ## This repository contains the dataset used in: 
 ### PMID: 23545499
