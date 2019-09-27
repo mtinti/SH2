@@ -5,3 +5,7 @@ The Jupyter notebooks
 - example
 
 contains a few notes
+
+the folder data_file_post contains the raw data files processed by the PerkinElmer ScanArray machine software
+
+the folder old contains a data dump from the Pepspot database PepspotDB
