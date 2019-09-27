@@ -1,4 +1,7 @@
 # The SH2 domain interaction landscape
+
+[![DOI](https://zenodo.org/badge/202750729.svg)](https://zenodo.org/badge/latestdoi/202750729)
+
 ## This repository contains the dataset used in: 
 ### PMID: 23545499
 https://www.ncbi.nlm.nih.gov/pubmed/23545499
