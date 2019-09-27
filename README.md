@@ -12,6 +12,6 @@ The Jupyter notebooks
 
 contains a few notes
 
-The folder data_file_post contains the raw data files processed by the PerkinElmer ScanArray machine software
+1. The folder "data_file_post" contains the raw data files processed by the PerkinElmer ScanArray machine software
 
-the folder old contains a data dump from the Pepspot database PepspotDB
+2. The folder "old" contains a data dump from the Pepspot database PepspotDB
