@@ -14,3 +14,4 @@ https://www.sciencedirect.com/science/article/pii/S2211124713001083
 - The Jupyter notebook "example.ipynb" contains a few notes for data processing
 - The folder "data_file_post" contains the raw data files processed by the PerkinElmer ScanArray machine software
 - The folder "old" contains a data dump from the Pepspot database PepspotDB
+- The .gal files describing the two array formats used (see also Protocol_Microarray_Evaluation_Galviewer.pdf from Jerini)
